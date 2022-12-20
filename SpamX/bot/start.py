@@ -7,7 +7,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
 
 
-Pic = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg"
+Pic = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/a5fd56c80748f364c229d.jpg"
 Hn = "/"
 btn = InlineKeyboardMarkup(
                 [[
