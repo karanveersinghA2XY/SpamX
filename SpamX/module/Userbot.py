@@ -17,7 +17,7 @@ from pyrogram import __version__ as pyro_vr
 
 pongg = PING_MSG if PING_MSG else "𝐊𝐕 -𝐱𝐃 °| X"
 RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ec832fc9107fd21edfee3.jpg"
-Alivemsg = ALIVE_MSG if ALIVE_MSG else "𝗦𝗽𝗮𝗺𝗫 𝗛𝗲𝗿𝗲."
+Alivemsg = ALIVE_MSG if ALIVE_MSG else "𝗔𝗣𝗣𝗟𝗘."
 
 
 rizoel = f"⁂ {Alivemsg} ⁂\n\n"
