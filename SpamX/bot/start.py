@@ -12,7 +12,7 @@ Hn = "/"
 btn = InlineKeyboardMarkup(
                 [[
                     InlineKeyboardButton(
-                        "• Channel •", url="https://t.me/RiZoeLX"),
+                        "• Channel •", url="https://t.me/cute_applee"),
                     InlineKeyboardButton(
                         "• Support •", url="https://t.me/DNHxHELL")
                 ], [
