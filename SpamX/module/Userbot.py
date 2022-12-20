@@ -25,7 +25,7 @@ rizoel += f"━───────╯•╰───────━\n"
 rizoel += f"➠ **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.4`\n"
 rizoel += f"➠ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ** : `{pyro_vr}`\n"
 rizoel += f"➠ **SᴘᴀᴍX ᴠᴇʀsɪᴏɴ**  : `{__version__}`\n"
-rizoel += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/RiZoeLX)\n"
+rizoel += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/ENGLISH_SPEAKERSSS)\n"
 rizoel += f"━───────╮•╭───────━\n\n"
 rizoel += f"➠ **Source Code:** [•Repo•](https://github.com/ctzfamily/neko-best-bot)"
 
