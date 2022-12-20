@@ -15,7 +15,7 @@ from pyrogram.types import Message
 from pyrogram import __version__ as pyro_vr             
                 
 
-pongg = PING_MSG if PING_MSG else "Sᴘᴀᴍ X"
+pongg = PING_MSG if PING_MSG else "𝐊𝐕 -𝐱𝐃 °|"
 RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/a5fd56c80748f364c229d.jpg"
 Alivemsg = ALIVE_MSG if ALIVE_MSG else "𝗦𝗽𝗮𝗺𝗫 𝗛𝗲𝗿𝗲."
 
