@@ -14,7 +14,7 @@ btn = InlineKeyboardMarkup(
                     InlineKeyboardButton(
                         "• Channel •", url="https://t.me/cute_applee"),
                     InlineKeyboardButton(
-                        "• Support •", url="https://t.me/DNHxHELL")
+                        "• Support •", url="https://t.me/ENGLISH_SPEAKERSSS")
                 ], [
                     InlineKeyboardButton(
                         "• Repo •", url="https://github.com/RiZoeLX/SpamX")
