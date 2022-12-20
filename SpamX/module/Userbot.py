@@ -27,7 +27,7 @@ rizoel += f"➠ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ** : `{pyro_vr}`\n"
 rizoel += f"➠ **SᴘᴀᴍX ᴠᴇʀsɪᴏɴ**  : `{__version__}`\n"
 rizoel += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/RiZoeLX)\n"
 rizoel += f"━───────╮•╭───────━\n\n"
-rizoel += f"➠ **Source Code:** [•Repo•](https://github.com/RiZoeLX/SpamX)"
+rizoel += f"➠ **Source Code:** [•Repo•](https://github.com/ctzfamily/neko-best-bot)"
 
 
 async def get_time(seconds: int) -> str:
